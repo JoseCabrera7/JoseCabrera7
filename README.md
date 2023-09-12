@@ -1,5 +1,5 @@
 # REPOSITORIO EN CONSTRUCCION👋
-![Alt](https://i.pinimg.com/736x/65/14/7e/65147e1483a5bc3cd189cffda489391b.jpg)
+![Alt](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzVj5vKjDyUmRQ1V2WTEj4JtZW16M3HA9L-Q&usqp=CAU)
 <!--
 **JoseCabrera7/JoseCabrera7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
