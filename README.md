@@ -1,5 +1,5 @@
 # REPOSITORIO EN CONSTRUCCION👋
-![Alt](https://e7.pngegg.com/pngimages/424/569/png-clipart-party-carnival-crowd-silhouette-silhouette-of-party-holidays-public-relations-thumbnail.png)
+![Alt](https://e7.pngegg.com/pngimages/259/24/png-clipart-silhouette-people-silhouettes-photography-team-thumbnail.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoseCabrera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jose.cabrera7_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jose_cabrera17_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josmanu1717) 
