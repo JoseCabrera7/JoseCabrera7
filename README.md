@@ -1,5 +1,5 @@
 # REPOSITORIO EN CONSTRUCCION👋
-![Alt](https://o.remove.bg/downloads/0d33608e-b074-454b-860a-e18dd1d61cfe/be78517fe634909d0de9d31c4358a314-removebg-preview.png)
+![Alt](https://o.remove.bg/downloads/3d77fe91-cebf-45ac-8102-7720dc348b4b/Rick_-_Bender_-_BoJack-removebg-preview.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoseCabrera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jose.cabrera7_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jose_cabrera17_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josmanu1717) 
