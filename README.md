@@ -1,5 +1,5 @@
 # JOSE CABRERA 💻
-![Alt](https://o.remove.bg/downloads/3d77fe91-cebf-45ac-8102-7720dc348b4b/Rick_-_Bender_-_BoJack-removebg-preview.png)
+![Alt](https://o.remove.bg/downloads/8b625060-63dc-43f9-9125-e9d20dcc5640/Real_Madrid__Cristiano_Ronaldo_-removebg-preview.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoseCabrera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jose.cabrera7_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jose_cabrera17_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josmanu1717) 
