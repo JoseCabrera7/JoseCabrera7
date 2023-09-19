@@ -1,5 +1,5 @@
 # JOSE CABRERA 💻
-![Alt](https://o.remove.bg/downloads/aa26bb1a-5852-4794-bbc8-72c46624293b/descarga__2_-removebg-preview.png)
+![Alt](https://o.remove.bg/downloads/5654f12a-6863-48a9-9ec0-75bec0449dae/descarga_2222-removebg-preview.png)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoseCabrera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jose.cabrera7_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jose_cabrera17_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josmanu1717) 
