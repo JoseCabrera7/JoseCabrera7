@@ -60,9 +60,45 @@
   </a>
 </div>
 
-
 <hr>
 
+<h1>Contact Me! 👤:</h1>
+
+<div>
+  <a href="https://github.com/JoseCabrera7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
+         width="42"
+         style="filter: invert(1); transition: transform .3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="www.linkedin.com/in/josem-cabrera" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+         width="42"
+         style="filter: invert(1); transition: transform .3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="mailto:josecab1947@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+         width="42"
+         style="filter: invert(1); transition: transform .3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+
+  <a href="https://www.instagram.com/jose.cabrera7_?igsh=eHBmd2dubnEyaDN3&utm_source=qr" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+         width="42"
+         style="filter: invert(1); transition: transform .3s;"
+         onmouseover="this.style.transform='scale(1.2)'"
+         onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</div>
+
+<hr>
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
