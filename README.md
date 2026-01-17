@@ -21,7 +21,24 @@
 
 <hr>
 
-<h1>My Skills! 🔱:</h1>
+<h1>Skills & Experience! 🔱:</h1>
+
+- 🎨 Frontend Development: HTML, CSS, JavaScript, responsive design, and modern frameworks.
+- ⚙️ Backend Development: Server-side logic, APIs, and application architecture.
+- 🗄️ Database Management: Design, management, and optimization of relational and non-relational databases.
+- 🔗 Full Stack Development: Integration between frontend, backend, and databases.
+- 🚀 Problem Solving: Logical thinking and efficient solution development.
+
+<hr>
+
+<h1>Programming Practices! 🥇:</h1>
+
+- ✅ Strong programming logic with clean and efficient problem-solving.
+- 🧱 Solid knowledge of system architecture and software design.
+- 📐 Application of SOLID principles and clean code best practices.
+- 🧩 Experience with design patterns and structured solutions.
+- 🧠 Object-Oriented Programming (OOP) with well-structured and maintainable code.
+- 🔍 Focus on scalability, readability, and long-term maintainability.
 
 <hr>
 
