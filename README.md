@@ -68,10 +68,10 @@
   <a href="https://github.com/JoseCabrera7" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&size=48&theme=dark" />
   </a>
-  <a href="www.linkedin.com/in/josem-cabrera" target="_blank">
+  <a href="https://www.linkedin.com/in/josem-cabrera" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&size=48&theme=dark" />
   </a>
-  <a href="josecab1947@gmail.com">
+  <a href="mailto:josecab1947@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&size=48&theme=dark" />
   </a>
   <a href="https://www.instagram.com/jose.cabrera7_?igsh=eHBmd2dubnEyaDN3&utm_source=qr" target="_blank">
