@@ -29,13 +29,15 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,netbeans,css,html,figma,ai,arduino" />
+    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,css,html,figma,ai,arduino" />
   </a>
 </p>
 
 <hr>
 
 <h1>Some of my Projects! 💻:</h1>
+
+https://www.amadetalles.online/
 
 <hr>
 
