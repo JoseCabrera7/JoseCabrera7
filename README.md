@@ -1,17 +1,46 @@
-# JOSE CABRERA 💻
-![Alt](https://i.pinimg.com/736x/c9/ae/df/c9aedf9f39e3f3d24be5bba4f7021fc0.jpg)
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JoseCabrera) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jose.cabrera7_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jose_cabrera17_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@josmanu1717) 
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoseCabrera7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JoseCabrera7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCabrera7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF0000&size=28&width=500&lines=Welcome+to+my+world.)
 
----
-[![](https://visitcount.itsvg.in/api?id=JoseCabrera7&icon=6&color=11)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1>About Me! 🐐:</h1>
+
+- 🏫 I am a 7th-semester Systems Engineering student at Mariana University.
+- 💻 I am a Full Stack Developer with experience in building modern web applications.
+- 🏢 I am currently working at a Colombian company, developing small-scale projects.
+- 🌱 I enjoy learning new technologies and constantly expanding my skills.
+- 🤔 I am always open to learning and exploring new ideas and tools.
+- 💬 Ask me about web development, databases, and software development.
+- :trollface:              Pronoun: KaBra
+- 👀 Fun fact: I love soccer, work out at the gym, and enjoy playing video games ⚽🏋️‍♂️🎮
+
+<hr>
+
+<h1>My Skills! 🔱:</h1>
+
+<hr>
+
+<h1>Tools I use! ⚡ </h1>
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,git,angular,py,mongodb,aws,mysql,eclipse,vscode,netbeans,css,html,figma,ai,arduino" />
+  </a>
+</p>
+
+<hr>
+
+<h1>Some of my Projects! 💻:</h1>
+
+<hr>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
