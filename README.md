@@ -37,7 +37,12 @@
 
 <h1>Some of my Projects! 💻:</h1>
 
-https://www.amadetalles.online/
+<div>
+  <a href="https://www.amadetalles.online/">
+    <img src="./amaDetalles.png.png" alt="AmaDetalles" width="150">
+  </a>
+</div>
+
 
 <hr>
 
