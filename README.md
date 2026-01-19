@@ -72,7 +72,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin&size=48&theme=dark" />
   </a>
   <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=josecab1947@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&size=48&theme=dark" />
+    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail&size=48&theme=dark" />
   </a>
   <a href="https://www.instagram.com/jose.cabrera7_?igsh=eHBmd2dubnEyaDN3&utm_source=qr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&size=48&theme=dark" />
