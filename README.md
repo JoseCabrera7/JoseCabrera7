@@ -1,7 +1,3 @@
-
-
-<!-- GIF HEADER -->
-
 <img src="./volcanGaleras3.jpg" style="width:100%; height:100%; object-fit:cover;">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF0000&size=28&width=500&lines=Welcome+to+my+world.)
@@ -52,7 +48,7 @@
 
 <hr>
 
-<h1>Some of my Projects! 💻:</h1>
+<h1>Some of my Projects! 💻</h1>
 
 <div>
   <a href="https://www.amadetalles.online/">
@@ -62,7 +58,7 @@
 
 <hr>
 
-<h1>Contact Me! 👤:</h1>
+<h1>Contact Me! 👤</h1>
 
 <p>
   <a href="https://github.com/JoseCabrera7" target="_blank">
