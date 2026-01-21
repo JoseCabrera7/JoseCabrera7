@@ -3,7 +3,7 @@
 
 <!-- GIF HEADER -->
 
-<img src="./volcanGaleras2.jpeg" style="width:100%; height:100%; object-fit:cover;">
+<img src="./volcanGaleras3.jpeg" style="width:100%; height:100%; object-fit:cover;">
 
  
 
