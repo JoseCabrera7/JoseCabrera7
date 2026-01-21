@@ -1,11 +1,8 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <!-- GIF HEADER -->
 
 <img src="./volcanGaleras3.jpg" style="width:100%; height:100%; object-fit:cover;">
-
- 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=FF0000&size=28&width=500&lines=Welcome+to+my+world.)
 
@@ -82,9 +79,6 @@
   </a>
 </p>
 
-<hr>
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
