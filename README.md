@@ -8,7 +8,7 @@
 
 <hr>
 
-<h1>About Me! 🐐:</h1>
+<h1>About Me! 🐐</h1>
 
 - 🏫 I am a 7th-semester Systems Engineering student at Mariana University.
 - 💻 I am a Full Stack Developer with experience in building modern web applications.
@@ -21,7 +21,7 @@
 
 <hr>
 
-<h1>Skills & Experience! 🔱:</h1>
+<h1>Skills & Experience! 🔱</h1>
 
 - 🎨 Frontend Development: HTML, CSS, JavaScript, responsive design, and modern frameworks.
 - ⚙️ Backend Development: Server-side logic, APIs, and application architecture.
@@ -31,7 +31,7 @@
 
 <hr>
 
-<h1>Programming Practices! 🥇:</h1>
+<h1>Programming Practices! 🥇</h1>
 
 - ✅ Strong programming logic with clean and efficient problem-solving.
 - 🧱 Solid knowledge of system architecture and software design.
